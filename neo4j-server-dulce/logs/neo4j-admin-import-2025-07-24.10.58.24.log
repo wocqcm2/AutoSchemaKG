@@ -1,0 +1,27 @@
+2025-07-24 02:58:25.387+0000 INFO  [o.n.k.i.s.f.RecordFormatSelector] [cicgpc-glazing-ver1-0a-csv-json-text] Selected configured format for store /Users/qiao/PycharmProjects/AutoSchemaKG/neo4j-server-dulce/data/databases/cicgpc-glazing-ver1-0a-csv-json-text: RecordFormat:PageAlignedV5_0[aligned-1.1]
+2025-07-24 02:58:25.602+0000 INFO  [o.n.i.b.ImportLogic] [cicgpc-glazing-ver1-0a-csv-json-text] Import starting
+2025-07-24 02:58:27.340+0000 INFO  [o.n.i.b.ImportLogic] [cicgpc-glazing-ver1-0a-csv-json-text] Import completed successfully, took 1s 738ms. Imported:
+  1731 nodes
+  5910 relationships
+  14038 properties
+2025-07-24 02:58:27.355+0000 DEBUG [o.n.k.i.s.NeoStores] [cicgpc-glazing-ver1-0a-csv-json-text] Checkpointing neostore.nodestore.db.labels
+2025-07-24 02:58:27.360+0000 DEBUG [o.n.k.i.s.NeoStores] [cicgpc-glazing-ver1-0a-csv-json-text] Checkpointing neostore.nodestore.db
+2025-07-24 02:58:27.366+0000 DEBUG [o.n.k.i.s.NeoStores] [cicgpc-glazing-ver1-0a-csv-json-text] Checkpointing neostore.propertystore.db.index.keys
+2025-07-24 02:58:27.372+0000 DEBUG [o.n.k.i.s.NeoStores] [cicgpc-glazing-ver1-0a-csv-json-text] Checkpointing neostore.propertystore.db.index
+2025-07-24 02:58:27.377+0000 DEBUG [o.n.k.i.s.NeoStores] [cicgpc-glazing-ver1-0a-csv-json-text] Checkpointing neostore.propertystore.db.strings
+2025-07-24 02:58:27.384+0000 DEBUG [o.n.k.i.s.NeoStores] [cicgpc-glazing-ver1-0a-csv-json-text] Checkpointing neostore.propertystore.db.arrays
+2025-07-24 02:58:27.390+0000 DEBUG [o.n.k.i.s.NeoStores] [cicgpc-glazing-ver1-0a-csv-json-text] Checkpointing neostore.propertystore.db
+2025-07-24 02:58:27.396+0000 DEBUG [o.n.k.i.s.NeoStores] [cicgpc-glazing-ver1-0a-csv-json-text] Checkpointing neostore.relationshipstore.db
+2025-07-24 02:58:27.402+0000 DEBUG [o.n.k.i.s.NeoStores] [cicgpc-glazing-ver1-0a-csv-json-text] Checkpointing neostore.relationshiptypestore.db.names
+2025-07-24 02:58:27.407+0000 DEBUG [o.n.k.i.s.NeoStores] [cicgpc-glazing-ver1-0a-csv-json-text] Checkpointing neostore.relationshiptypestore.db
+2025-07-24 02:58:27.414+0000 DEBUG [o.n.k.i.s.NeoStores] [cicgpc-glazing-ver1-0a-csv-json-text] Checkpointing neostore.labeltokenstore.db.names
+2025-07-24 02:58:27.420+0000 DEBUG [o.n.k.i.s.NeoStores] [cicgpc-glazing-ver1-0a-csv-json-text] Checkpointing neostore.labeltokenstore.db
+2025-07-24 02:58:27.426+0000 DEBUG [o.n.k.i.s.NeoStores] [cicgpc-glazing-ver1-0a-csv-json-text] Checkpointing neostore.schemastore.db
+2025-07-24 02:58:27.432+0000 DEBUG [o.n.k.i.s.NeoStores] [cicgpc-glazing-ver1-0a-csv-json-text] Checkpointing neostore.relationshipgroupstore.db
+2025-07-24 02:58:27.438+0000 DEBUG [o.n.k.i.s.NeoStores] [cicgpc-glazing-ver1-0a-csv-json-text] Checkpointing neostore
+2025-07-24 02:58:27.441+0000 DEBUG [o.n.k.i.s.NeoStores] [cicgpc-glazing-ver1-0a-csv-json-text] Checkpointing neostore.propertystore.db.index.keys
+2025-07-24 02:58:27.447+0000 DEBUG [o.n.k.i.s.NeoStores] [cicgpc-glazing-ver1-0a-csv-json-text] Checkpointing neostore.propertystore.db.index
+2025-07-24 02:58:27.453+0000 DEBUG [o.n.k.i.s.NeoStores] [cicgpc-glazing-ver1-0a-csv-json-text] Checkpointing neostore.propertystore.db.strings
+2025-07-24 02:58:27.459+0000 DEBUG [o.n.k.i.s.NeoStores] [cicgpc-glazing-ver1-0a-csv-json-text] Checkpointing neostore.propertystore.db.arrays
+2025-07-24 02:58:27.465+0000 DEBUG [o.n.k.i.s.NeoStores] [cicgpc-glazing-ver1-0a-csv-json-text] Checkpointing neostore.propertystore.db
+2025-07-24 02:58:27.471+0000 DEBUG [o.n.k.i.s.NeoStores] [cicgpc-glazing-ver1-0a-csv-json-text] Checkpointing neostore.relationshipgroupstore.db

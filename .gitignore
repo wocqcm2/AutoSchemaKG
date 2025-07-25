@@ -1,11 +1,7 @@
 log
 *.ini
 __pycache__
-src/ATLASMultiHopQA/processed_data/
-import/Dulce/kg_graphml/Dulce_graph.graphml
 src/ATLASMultiHopQA/data
-neo4j-server-dulce/
 import.report
-*with_emb.csv
 dist
 todo.md

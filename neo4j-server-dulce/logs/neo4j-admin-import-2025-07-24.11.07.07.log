@@ -1,0 +1,27 @@
+2025-07-24 03:07:10.010+0000 INFO  [o.n.k.i.s.f.RecordFormatSelector] [pes2o-csv-json-text] Selected configured format for store /Users/qiao/PycharmProjects/AutoSchemaKG/neo4j-server-dulce/data/databases/pes2o-csv-json-text: RecordFormat:PageAlignedV5_0[aligned-1.1]
+2025-07-24 03:07:10.275+0000 INFO  [o.n.i.b.ImportLogic] [pes2o-csv-json-text] Import starting
+2025-07-24 03:07:12.102+0000 INFO  [o.n.i.b.ImportLogic] [pes2o-csv-json-text] Import completed successfully, took 1s 827ms. Imported:
+  1731 nodes
+  5910 relationships
+  14038 properties
+2025-07-24 03:07:12.121+0000 DEBUG [o.n.k.i.s.NeoStores] [pes2o-csv-json-text] Checkpointing neostore.nodestore.db.labels
+2025-07-24 03:07:12.124+0000 DEBUG [o.n.k.i.s.NeoStores] [pes2o-csv-json-text] Checkpointing neostore.nodestore.db
+2025-07-24 03:07:12.130+0000 DEBUG [o.n.k.i.s.NeoStores] [pes2o-csv-json-text] Checkpointing neostore.propertystore.db.index.keys
+2025-07-24 03:07:12.136+0000 DEBUG [o.n.k.i.s.NeoStores] [pes2o-csv-json-text] Checkpointing neostore.propertystore.db.index
+2025-07-24 03:07:12.142+0000 DEBUG [o.n.k.i.s.NeoStores] [pes2o-csv-json-text] Checkpointing neostore.propertystore.db.strings
+2025-07-24 03:07:12.148+0000 DEBUG [o.n.k.i.s.NeoStores] [pes2o-csv-json-text] Checkpointing neostore.propertystore.db.arrays
+2025-07-24 03:07:12.154+0000 DEBUG [o.n.k.i.s.NeoStores] [pes2o-csv-json-text] Checkpointing neostore.propertystore.db
+2025-07-24 03:07:12.160+0000 DEBUG [o.n.k.i.s.NeoStores] [pes2o-csv-json-text] Checkpointing neostore.relationshipstore.db
+2025-07-24 03:07:12.166+0000 DEBUG [o.n.k.i.s.NeoStores] [pes2o-csv-json-text] Checkpointing neostore.relationshiptypestore.db.names
+2025-07-24 03:07:12.171+0000 DEBUG [o.n.k.i.s.NeoStores] [pes2o-csv-json-text] Checkpointing neostore.relationshiptypestore.db
+2025-07-24 03:07:12.177+0000 DEBUG [o.n.k.i.s.NeoStores] [pes2o-csv-json-text] Checkpointing neostore.labeltokenstore.db.names
+2025-07-24 03:07:12.183+0000 DEBUG [o.n.k.i.s.NeoStores] [pes2o-csv-json-text] Checkpointing neostore.labeltokenstore.db
+2025-07-24 03:07:12.189+0000 DEBUG [o.n.k.i.s.NeoStores] [pes2o-csv-json-text] Checkpointing neostore.schemastore.db
+2025-07-24 03:07:12.195+0000 DEBUG [o.n.k.i.s.NeoStores] [pes2o-csv-json-text] Checkpointing neostore.relationshipgroupstore.db
+2025-07-24 03:07:12.200+0000 DEBUG [o.n.k.i.s.NeoStores] [pes2o-csv-json-text] Checkpointing neostore
+2025-07-24 03:07:12.203+0000 DEBUG [o.n.k.i.s.NeoStores] [pes2o-csv-json-text] Checkpointing neostore.propertystore.db.index.keys
+2025-07-24 03:07:12.209+0000 DEBUG [o.n.k.i.s.NeoStores] [pes2o-csv-json-text] Checkpointing neostore.propertystore.db.index
+2025-07-24 03:07:12.215+0000 DEBUG [o.n.k.i.s.NeoStores] [pes2o-csv-json-text] Checkpointing neostore.propertystore.db.strings
+2025-07-24 03:07:12.221+0000 DEBUG [o.n.k.i.s.NeoStores] [pes2o-csv-json-text] Checkpointing neostore.propertystore.db.arrays
+2025-07-24 03:07:12.227+0000 DEBUG [o.n.k.i.s.NeoStores] [pes2o-csv-json-text] Checkpointing neostore.propertystore.db
+2025-07-24 03:07:12.233+0000 DEBUG [o.n.k.i.s.NeoStores] [pes2o-csv-json-text] Checkpointing neostore.relationshipgroupstore.db

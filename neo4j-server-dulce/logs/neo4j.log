@@ -1,0 +1,181 @@
+2025-07-24 02:43:58.395+0000 WARN  null - Warning: Use of deprecated setting 'dbms.unmanaged_extension_classes'. It is replaced by 'server.unmanaged_extension_classes'.
+2025-07-24 02:44:01.087+0000 INFO  Running in daemon mode, all <Console> appenders will be suppressed:
+2025-07-24 02:44:01.089+0000 INFO  Removing console appender 'ConsoleAppender' with target 'SYSTEM_OUT'.
+2025-07-24 02:44:01.089+0000 INFO  Logging config in use: File '/Users/qiao/PycharmProjects/AutoSchemaKG/neo4j-server-dulce/conf/user-logs.xml'
+2025-07-24 02:44:01.093+0000 WARN  Use of deprecated setting 'dbms.unmanaged_extension_classes'. It is replaced by 'server.unmanaged_extension_classes'.
+2025-07-24 02:44:01.095+0000 ERROR Invalid memory configuration - exceeds physical memory. Check the configured values for server.memory.pagecache.size and server.memory.heap.max_size
+2025-07-24 02:44:01.095+0000 INFO  Neo4j Server shutdown initiated by request
+2025-07-24 02:44:01.096+0000 INFO  Stopped.
+2025-07-24 02:48:19.393+0000 INFO  Running in daemon mode, all <Console> appenders will be suppressed:
+2025-07-24 02:48:19.394+0000 INFO  Removing console appender 'ConsoleAppender' with target 'SYSTEM_OUT'.
+2025-07-24 02:48:19.395+0000 INFO  Logging config in use: File '/Users/qiao/PycharmProjects/AutoSchemaKG/neo4j-server-dulce/conf/user-logs.xml'
+2025-07-24 02:48:19.398+0000 INFO  Starting...
+2025-07-24 02:48:21.149+0000 INFO  This instance is ServerId{7522e8cb} (7522e8cb-5bae-4ffa-8b38-e54b2c09dc14)
+2025-07-24 02:48:21.700+0000 INFO  ======== Neo4j 2025.03.0 ========
+2025-07-24 02:48:22.905+0000 INFO  Anonymous Usage Data is being sent to Neo4j, see https://neo4j.com/docs/usage-data/
+2025-07-24 02:48:53.507+0000 INFO  Bolt enabled on 0.0.0.0:8012.
+2025-07-24 02:48:53.530+0000 INFO  Mounted unmanaged extension [n10s.endpoint] at [/rdf]
+2025-07-24 02:48:55.242+0000 INFO  HTTP enabled on 0.0.0.0:7012.
+2025-07-24 02:48:55.242+0000 INFO  Remote interface available at http://localhost:7012/
+2025-07-24 02:48:55.243+0000 INFO  id: FB577F0E24AF3A174972377483BF70E7E5CDE60480A856506E8632A10DD86268
+2025-07-24 02:48:55.244+0000 INFO  name: system
+2025-07-24 02:48:55.244+0000 INFO  creationDate: 2025-07-24T02:48:22.58Z
+2025-07-24 02:48:55.244+0000 INFO  Started.
+2025-07-24 02:55:56.808+0000 INFO  Neo4j Server shutdown initiated by request
+2025-07-24 02:55:56.808+0000 INFO  Stopping...
+2025-07-24 02:56:07.474+0000 INFO  Stopped.
+2025-07-24 03:00:25.590+0000 INFO  Running in daemon mode, all <Console> appenders will be suppressed:
+2025-07-24 03:00:25.591+0000 INFO  Removing console appender 'ConsoleAppender' with target 'SYSTEM_OUT'.
+2025-07-24 03:00:25.592+0000 INFO  Logging config in use: File '/Users/qiao/PycharmProjects/AutoSchemaKG/neo4j-server-dulce/conf/user-logs.xml'
+2025-07-24 03:00:25.595+0000 INFO  Starting...
+2025-07-24 03:00:28.027+0000 INFO  This instance is ServerId{7522e8cb} (7522e8cb-5bae-4ffa-8b38-e54b2c09dc14)
+2025-07-24 03:00:28.581+0000 INFO  ======== Neo4j 2025.03.0 ========
+2025-07-24 03:00:30.062+0000 INFO  Anonymous Usage Data is being sent to Neo4j, see https://neo4j.com/docs/usage-data/
+2025-07-24 03:01:00.201+0000 INFO  Bolt enabled on 0.0.0.0:8012.
+2025-07-24 03:01:00.230+0000 INFO  Mounted unmanaged extension [n10s.endpoint] at [/rdf]
+2025-07-24 03:01:00.540+0000 INFO  HTTP enabled on 0.0.0.0:7012.
+2025-07-24 03:01:00.540+0000 INFO  Remote interface available at http://localhost:7012/
+2025-07-24 03:01:00.542+0000 INFO  id: FB577F0E24AF3A174972377483BF70E7E5CDE60480A856506E8632A10DD86268
+2025-07-24 03:01:00.542+0000 INFO  name: system
+2025-07-24 03:01:00.542+0000 INFO  creationDate: 2025-07-24T02:48:22.58Z
+2025-07-24 03:01:00.542+0000 INFO  Started.
+2025-07-24 03:06:39.969+0000 INFO  Neo4j Server shutdown initiated by request
+2025-07-24 03:06:39.969+0000 INFO  Stopping...
+2025-07-24 03:06:50.528+0000 INFO  Stopped.
+2025-07-24 03:07:53.774+0000 INFO  Running in daemon mode, all <Console> appenders will be suppressed:
+2025-07-24 03:07:53.776+0000 INFO  Removing console appender 'ConsoleAppender' with target 'SYSTEM_OUT'.
+2025-07-24 03:07:53.776+0000 INFO  Logging config in use: File '/Users/qiao/PycharmProjects/AutoSchemaKG/neo4j-server-dulce/conf/user-logs.xml'
+2025-07-24 03:07:53.779+0000 INFO  Starting...
+2025-07-24 03:07:55.273+0000 INFO  This instance is ServerId{7522e8cb} (7522e8cb-5bae-4ffa-8b38-e54b2c09dc14)
+2025-07-24 03:07:55.813+0000 INFO  ======== Neo4j 2025.03.0 ========
+2025-07-24 03:07:56.909+0000 INFO  Anonymous Usage Data is being sent to Neo4j, see https://neo4j.com/docs/usage-data/
+2025-07-24 03:08:27.028+0000 INFO  Bolt enabled on 0.0.0.0:8012.
+2025-07-24 03:08:27.046+0000 INFO  Mounted unmanaged extension [n10s.endpoint] at [/rdf]
+2025-07-24 03:08:27.429+0000 INFO  HTTP enabled on 0.0.0.0:7012.
+2025-07-24 03:08:27.429+0000 INFO  Remote interface available at http://localhost:7012/
+2025-07-24 03:08:27.431+0000 INFO  id: FB577F0E24AF3A174972377483BF70E7E5CDE60480A856506E8632A10DD86268
+2025-07-24 03:08:27.432+0000 INFO  name: system
+2025-07-24 03:08:27.432+0000 INFO  creationDate: 2025-07-24T02:48:22.58Z
+2025-07-24 03:08:27.432+0000 INFO  Started.
+2025-07-24 03:21:41.825+0000 INFO  Neo4j Server shutdown initiated by request
+2025-07-24 03:21:41.825+0000 INFO  Stopping...
+2025-07-24 03:21:52.410+0000 INFO  Stopped.
+2025-07-24 03:24:23.810+0000 INFO  Running in daemon mode, all <Console> appenders will be suppressed:
+2025-07-24 03:24:23.811+0000 INFO  Removing console appender 'ConsoleAppender' with target 'SYSTEM_OUT'.
+2025-07-24 03:24:23.812+0000 INFO  Logging config in use: File '/Users/qiao/PycharmProjects/AutoSchemaKG/neo4j-server-dulce/conf/user-logs.xml'
+2025-07-24 03:24:23.815+0000 INFO  Starting...
+2025-07-24 03:24:24.609+0000 INFO  This instance is ServerId{7522e8cb} (7522e8cb-5bae-4ffa-8b38-e54b2c09dc14)
+2025-07-24 03:24:25.125+0000 INFO  ======== Neo4j 2025.03.0 ========
+2025-07-24 03:24:25.160+0000 INFO  Prometheus: disabled GDS Metrics Server: disabled
+2025-07-24 03:24:25.160+0000 WARN  GDS metrics disabled
+2025-07-24 03:24:25.161+0000 WARN  [gds] The configuration gds.model.store_location is missing.
+2025-07-24 03:24:25.164+0000 INFO  Progress tracking: enabled
+2025-07-24 03:24:25.164+0000 INFO  Memory usage guard: minimum estimate
+2025-07-24 03:24:25.165+0000 INFO  Register GDS Memory Facade...
+2025-07-24 03:24:25.166+0000 INFO  GDS Memory Facade registered.
+2025-07-24 03:24:25.169+0000 INFO  Building Graph Data Science extension...
+2025-07-24 03:24:25.170+0000 INFO  Register Graph Data Science...
+2025-07-24 03:24:25.171+0000 INFO  Graph Data Science registered.
+2025-07-24 03:24:25.171+0000 INFO  Register Metrics...
+2025-07-24 03:24:25.171+0000 INFO  Metrics registered.
+2025-07-24 03:24:25.171+0000 INFO  Register Task Registry Factory...
+2025-07-24 03:24:25.171+0000 INFO  Task Registry Factory registered.
+2025-07-24 03:24:25.171+0000 INFO  Register Task Store...
+2025-07-24 03:24:25.171+0000 INFO  Task Store registered.
+2025-07-24 03:24:25.172+0000 INFO  Register User Log Registry Factory...
+2025-07-24 03:24:25.172+0000 INFO  User Log Registry Factory registered.
+2025-07-24 03:24:25.172+0000 INFO  Register License State...
+2025-07-24 03:24:25.172+0000 INFO  License State registered.
+2025-07-24 03:24:25.172+0000 INFO  Register Model Catalog...
+2025-07-24 03:24:25.172+0000 INFO  Model Catalog registered.
+2025-07-24 03:24:25.172+0000 INFO  Graph Data Science extension built.
+2025-07-24 03:24:25.172+0000 INFO  Building Graph Data Science Extras extension...
+2025-07-24 03:24:25.173+0000 INFO  Register Graph Data Science Extras...
+2025-07-24 03:24:25.173+0000 INFO  Graph Data Science Extras registered.
+2025-07-24 03:24:25.173+0000 INFO  Graph Data Science Extras extension built.
+2025-07-24 03:24:27.092+0000 INFO  Anonymous Usage Data is being sent to Neo4j, see https://neo4j.com/docs/usage-data/
+2025-07-24 03:24:57.229+0000 INFO  Bolt enabled on 0.0.0.0:8012.
+2025-07-24 03:24:57.257+0000 INFO  Mounted unmanaged extension [n10s.endpoint] at [/rdf]
+2025-07-24 03:24:57.546+0000 INFO  HTTP enabled on 0.0.0.0:7012.
+2025-07-24 03:24:57.547+0000 INFO  Remote interface available at http://localhost:7012/
+2025-07-24 03:24:57.548+0000 INFO  id: FB577F0E24AF3A174972377483BF70E7E5CDE60480A856506E8632A10DD86268
+2025-07-24 03:24:57.548+0000 INFO  name: system
+2025-07-24 03:24:57.548+0000 INFO  creationDate: 2025-07-24T02:48:22.58Z
+2025-07-24 03:24:57.548+0000 INFO  Started.
+2025-07-24 03:27:11.741+0000 INFO  [neo4j.BoltWorker-5 [bolt-1 - /[0:0:0:0:0:0:0:1]:62741]] Loading :: Start
+2025-07-24 03:27:11.743+0000 INFO  [neo4j.BoltWorker-5 [bolt-1 - /[0:0:0:0:0:0:0:1]:62741]] Loading :: Nodes :: Start
+2025-07-24 03:27:11.743+0000 INFO  [neo4j.BoltWorker-5 [bolt-1 - /[0:0:0:0:0:0:0:1]:62741]] Loading :: Nodes :: Store Scan :: Start
+2025-07-24 03:27:11.744+0000 INFO  [neo4j.BoltWorker-5 [bolt-1 - /[0:0:0:0:0:0:0:1]:62741]] Loading :: Nodes :: Store Scan :: Start using NodeLabelIndexBasedScanner
+2025-07-24 03:27:11.752+0000 INFO  [node-store-scan-3] Loading :: Nodes :: Store Scan 100%
+2025-07-24 03:27:11.753+0000 INFO  [neo4j.BoltWorker-5 [bolt-1 - /[0:0:0:0:0:0:0:1]:62741]] Loading :: Nodes :: Store Scan :: Imported 861 records and 0 properties from 39 KiB (40,950 bytes); took 0.008 s, 108,351.29 861s/s, 5032 KiB/s (5,153,293 bytes/s) (per thread: 27,087.82 861s/s, 1258 KiB/s (1,288,323 bytes/s))
+2025-07-24 03:27:11.753+0000 INFO  [neo4j.BoltWorker-5 [bolt-1 - /[0:0:0:0:0:0:0:1]:62741]] Loading :: Nodes :: Store Scan :: Finished
+2025-07-24 03:27:11.756+0000 INFO  [neo4j.BoltWorker-5 [bolt-1 - /[0:0:0:0:0:0:0:1]:62741]] Loading :: Nodes :: Finished
+2025-07-24 03:27:11.757+0000 INFO  [neo4j.BoltWorker-5 [bolt-1 - /[0:0:0:0:0:0:0:1]:62741]] Loading :: Relationships :: Start
+2025-07-24 03:27:11.757+0000 INFO  [neo4j.BoltWorker-5 [bolt-1 - /[0:0:0:0:0:0:0:1]:62741]] Loading :: Relationships :: Store Scan :: Start
+2025-07-24 03:27:11.757+0000 INFO  [neo4j.BoltWorker-5 [bolt-1 - /[0:0:0:0:0:0:0:1]:62741]] Loading :: Relationships :: Store Scan :: Start using RelationshipScanCursorBasedScanner
+2025-07-24 03:27:11.768+0000 INFO  [relationship-store-scan-0] Loading :: Relationships :: Store Scan 100%
+2025-07-24 03:27:11.770+0000 INFO  [neo4j.BoltWorker-5 [bolt-1 - /[0:0:0:0:0:0:0:1]:62741]] Loading :: Relationships :: Store Scan :: Imported 978 records and 0 properties from 199 KiB (204,000 bytes); took 0.009 s, 106,115.96 978s/s, 21 MiB/s (22,134,616 bytes/s) (per thread: 26,528.99 978s/s, 5403 KiB/s (5,533,654 bytes/s))
+2025-07-24 03:27:11.771+0000 INFO  [neo4j.BoltWorker-5 [bolt-1 - /[0:0:0:0:0:0:0:1]:62741]] Loading :: Relationships :: Store Scan :: Finished
+2025-07-24 03:27:11.791+0000 INFO  [neo4j.BoltWorker-5 [bolt-1 - /[0:0:0:0:0:0:0:1]:62741]] Loading :: Relationships :: Finished
+2025-07-24 03:27:11.793+0000 INFO  [neo4j.BoltWorker-5 [bolt-1 - /[0:0:0:0:0:0:0:1]:62741]] Loading :: Finished
+2025-07-24 03:38:21.675+0000 INFO  Neo4j Server shutdown initiated by request
+2025-07-24 03:38:21.675+0000 INFO  Stopping...
+2025-07-24 03:38:32.384+0000 INFO  Stopped.
+2025-07-24 03:51:59.396+0000 INFO  Running in daemon mode, all <Console> appenders will be suppressed:
+2025-07-24 03:51:59.398+0000 INFO  Removing console appender 'ConsoleAppender' with target 'SYSTEM_OUT'.
+2025-07-24 03:51:59.398+0000 INFO  Logging config in use: File '/Users/qiao/PycharmProjects/AutoSchemaKG/neo4j-server-dulce/conf/user-logs.xml'
+2025-07-24 03:51:59.402+0000 INFO  Starting...
+2025-07-24 03:52:01.195+0000 INFO  This instance is ServerId{7522e8cb} (7522e8cb-5bae-4ffa-8b38-e54b2c09dc14)
+2025-07-24 03:52:01.747+0000 INFO  ======== Neo4j 2025.03.0 ========
+2025-07-24 03:52:01.835+0000 INFO  Prometheus: disabled GDS Metrics Server: disabled
+2025-07-24 03:52:01.835+0000 WARN  GDS metrics disabled
+2025-07-24 03:52:01.837+0000 WARN  [gds] The configuration gds.model.store_location is missing.
+2025-07-24 03:52:01.839+0000 INFO  Progress tracking: enabled
+2025-07-24 03:52:01.839+0000 INFO  Memory usage guard: minimum estimate
+2025-07-24 03:52:01.841+0000 INFO  Register GDS Memory Facade...
+2025-07-24 03:52:01.841+0000 INFO  GDS Memory Facade registered.
+2025-07-24 03:52:01.845+0000 INFO  Building Graph Data Science extension...
+2025-07-24 03:52:01.846+0000 INFO  Register Graph Data Science...
+2025-07-24 03:52:01.847+0000 INFO  Graph Data Science registered.
+2025-07-24 03:52:01.847+0000 INFO  Register Metrics...
+2025-07-24 03:52:01.847+0000 INFO  Metrics registered.
+2025-07-24 03:52:01.847+0000 INFO  Register Task Registry Factory...
+2025-07-24 03:52:01.847+0000 INFO  Task Registry Factory registered.
+2025-07-24 03:52:01.847+0000 INFO  Register Task Store...
+2025-07-24 03:52:01.847+0000 INFO  Task Store registered.
+2025-07-24 03:52:01.847+0000 INFO  Register User Log Registry Factory...
+2025-07-24 03:52:01.848+0000 INFO  User Log Registry Factory registered.
+2025-07-24 03:52:01.848+0000 INFO  Register License State...
+2025-07-24 03:52:01.848+0000 INFO  License State registered.
+2025-07-24 03:52:01.848+0000 INFO  Register Model Catalog...
+2025-07-24 03:52:01.848+0000 INFO  Model Catalog registered.
+2025-07-24 03:52:01.848+0000 INFO  Graph Data Science extension built.
+2025-07-24 03:52:01.848+0000 INFO  Building Graph Data Science Extras extension...
+2025-07-24 03:52:01.848+0000 INFO  Register Graph Data Science Extras...
+2025-07-24 03:52:01.849+0000 INFO  Graph Data Science Extras registered.
+2025-07-24 03:52:01.849+0000 INFO  Graph Data Science Extras extension built.
+2025-07-24 03:52:03.905+0000 INFO  Anonymous Usage Data is being sent to Neo4j, see https://neo4j.com/docs/usage-data/
+2025-07-24 03:52:34.060+0000 INFO  Bolt enabled on 0.0.0.0:8012.
+2025-07-24 03:52:34.098+0000 INFO  Mounted unmanaged extension [n10s.endpoint] at [/rdf]
+2025-07-24 03:52:34.420+0000 INFO  [neo4j.BoltWorker-5 [bolt-0 - /[0:0:0:0:0:0:0:1]:50620]] Loading :: Start
+2025-07-24 03:52:34.423+0000 INFO  [neo4j.BoltWorker-5 [bolt-0 - /[0:0:0:0:0:0:0:1]:50620]] Loading :: Nodes :: Start
+2025-07-24 03:52:34.423+0000 INFO  [neo4j.BoltWorker-5 [bolt-0 - /[0:0:0:0:0:0:0:1]:50620]] Loading :: Nodes :: Store Scan :: Start
+2025-07-24 03:52:34.423+0000 INFO  [neo4j.BoltWorker-5 [bolt-0 - /[0:0:0:0:0:0:0:1]:50620]] Loading :: Nodes :: Store Scan :: Start using NodeLabelIndexBasedScanner
+2025-07-24 03:52:34.433+0000 INFO  [node-store-scan-3] Loading :: Nodes :: Store Scan 100%
+2025-07-24 03:52:34.434+0000 INFO  [neo4j.BoltWorker-5 [bolt-0 - /[0:0:0:0:0:0:0:1]:50620]] Loading :: Nodes :: Store Scan :: Imported 861 records and 0 properties from 39 KiB (40,950 bytes); took 0.009 s, 94,692.99 861s/s, 4398 KiB/s (4,503,691 bytes/s) (per thread: 23,673.25 861s/s, 1099 KiB/s (1,125,922 bytes/s))
+2025-07-24 03:52:34.434+0000 INFO  [neo4j.BoltWorker-5 [bolt-0 - /[0:0:0:0:0:0:0:1]:50620]] Loading :: Nodes :: Store Scan :: Finished
+2025-07-24 03:52:34.437+0000 INFO  [neo4j.BoltWorker-5 [bolt-0 - /[0:0:0:0:0:0:0:1]:50620]] Loading :: Nodes :: Finished
+2025-07-24 03:52:34.438+0000 INFO  [neo4j.BoltWorker-5 [bolt-0 - /[0:0:0:0:0:0:0:1]:50620]] Loading :: Relationships :: Start
+2025-07-24 03:52:34.438+0000 INFO  [neo4j.BoltWorker-5 [bolt-0 - /[0:0:0:0:0:0:0:1]:50620]] Loading :: Relationships :: Store Scan :: Start
+2025-07-24 03:52:34.438+0000 INFO  [neo4j.BoltWorker-5 [bolt-0 - /[0:0:0:0:0:0:0:1]:50620]] Loading :: Relationships :: Store Scan :: Start using RelationshipScanCursorBasedScanner
+2025-07-24 03:52:34.451+0000 INFO  HTTP enabled on 0.0.0.0:7012.
+2025-07-24 03:52:34.451+0000 INFO  Remote interface available at http://localhost:7012/
+2025-07-24 03:52:34.452+0000 INFO  [relationship-store-scan-2] Loading :: Relationships :: Store Scan 100%
+2025-07-24 03:52:34.452+0000 INFO  id: FB577F0E24AF3A174972377483BF70E7E5CDE60480A856506E8632A10DD86268
+2025-07-24 03:52:34.453+0000 INFO  name: system
+2025-07-24 03:52:34.453+0000 INFO  creationDate: 2025-07-24T02:48:22.58Z
+2025-07-24 03:52:34.453+0000 INFO  Started.
+2025-07-24 03:52:34.454+0000 INFO  [neo4j.BoltWorker-5 [bolt-0 - /[0:0:0:0:0:0:0:1]:50620]] Loading :: Relationships :: Store Scan :: Imported 978 records and 0 properties from 199 KiB (204,000 bytes); took 0.012 s, 84,035.36 978s/s, 16 MiB/s (17,528,848 bytes/s) (per thread: 21,008.84 978s/s, 4279 KiB/s (4,382,212 bytes/s))
+2025-07-24 03:52:34.455+0000 INFO  [neo4j.BoltWorker-5 [bolt-0 - /[0:0:0:0:0:0:0:1]:50620]] Loading :: Relationships :: Store Scan :: Finished
+2025-07-24 03:52:34.478+0000 INFO  [neo4j.BoltWorker-5 [bolt-0 - /[0:0:0:0:0:0:0:1]:50620]] Loading :: Relationships :: Finished
+2025-07-24 03:52:34.481+0000 INFO  [neo4j.BoltWorker-5 [bolt-0 - /[0:0:0:0:0:0:0:1]:50620]] Loading :: Finished
