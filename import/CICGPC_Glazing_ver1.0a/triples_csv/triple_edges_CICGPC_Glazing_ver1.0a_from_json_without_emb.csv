@@ -1,4 +1,490 @@
 :START_ID,:END_ID,relation,concepts,synsets,:TYPE
+Construction Industry Council,logo,features,[],[],Relation
+Construction Industry Council,copyright,holds,[],[],Relation
+Construction Industry Council,green product certification,provides,[],[],Relation
+Glazing,assessment standard,has,[],[],Relation
+Product Information,installation instructions,includes,[],[],Relation
+Product Information,U-value,includes,[],[],Relation
+Product Information,solar heat gain coefficient,includes,[],[],Relation
+Product Information,visible light transmittance,includes,[],[],Relation
+Thermal Insulation Performance,U-value,requires,[],[],Relation
+Shading Coefficient,solar heat gain coefficient,requires,[],[],Relation
+Visible Light Transmittance,VLT,requires,[],[],Relation
+The Construction Industry Council created the CIC Green Product Certification.,The Glazing (Version 1.0a) assessment standard was established.,before,[],[],Relation
+The Glazing assessment standard was established.,There was a need for a standardized assessment of glazing products.,because,[],[],Relation
+The document states that no part may be reproduced without permission.,All rights are reserved by the Construction Industry Council.,as a result,[],[],Relation
+The English version prevails in cases of inconsistency with the Chinese version.,The document explicitly states the priority of the English version.,because,[],[],Relation
+Product information must be provided on packaging or the company website.,This is a requirement of the assessment criteria.,because,[],[],Relation
+"Product information includes instructions on installation, adjustment, and protection.","Product information includes U-value, solar heat gain coefficient, and visible light transmittance.",at the same time,[],[],Relation
+Documentation related to the label and relevant information is required.,It serves as verification for product information.,because,[],[],Relation
+Thermal insulation performance requires specific U-values for glazing.,The assessment criteria specify performance limits for energy efficiency.,because,[],[],Relation
+Laboratory test reports are required for shading coefficient verification.,The performance of the product must meet specific shading coefficient criteria.,because,[],[],Relation
+Visible light transmittance performance must meet specific VLT percentages.,This ensures adequate light transmittance as per the assessment criteria.,because,[],[],Relation
+"No part of this document may be reproduced, stored in a retrieval system or transmitted without permission.",document,is participated by,[],[],Relation
+"No part of this document may be reproduced, stored in a retrieval system or transmitted without permission.",retrieval system,is participated by,[],[],Relation
+"No part of this document may be reproduced, stored in a retrieval system or transmitted without permission.",permission,is participated by,[],[],Relation
+"No part of this document may be reproduced, stored in a retrieval system or transmitted without permission.",Construction Industry Council,is participated by,[],[],Relation
+The English version shall prevail in case of inconsistency or ambiguity between the English version and the Chinese version.,English version,is participated by,[],[],Relation
+The English version shall prevail in case of inconsistency or ambiguity between the English version and the Chinese version.,Chinese version,is participated by,[],[],Relation
+Provide product information on the packaging of the product and/or company website.,product,is participated by,[],[],Relation
+Provide product information on the packaging of the product and/or company website.,packaging,is participated by,[],[],Relation
+Provide product information on the packaging of the product and/or company website.,company website,is participated by,[],[],Relation
+"Provide instructions on the installation, adjustment, and protection of the product.",product,is participated by,[],[],Relation
+"Provide U-value, solar heat gain coefficient, and visible light transmittance.",U-value,is participated by,[],[],Relation
+"Provide U-value, solar heat gain coefficient, and visible light transmittance.",solar heat gain coefficient,is participated by,[],[],Relation
+"Provide U-value, solar heat gain coefficient, and visible light transmittance.",visible light transmittance,is participated by,[],[],Relation
+Provide recommended maintenance for the product.,product,is participated by,[],[],Relation
+Provide details related to the end of service life of the product.,product,is participated by,[],[],Relation
+Laboratory test report(s) are required on the U-value of the entire glazing product.,laboratory test report(s),is participated by,[],[],Relation
+Laboratory test report(s) are required on the U-value of the entire glazing product.,U-value,is participated by,[],[],Relation
+Laboratory test report(s) are required on the U-value of the entire glazing product.,glazing product,is participated by,[],[],Relation
+Laboratory test report(s) are required on shading coefficient or solar heat gain coefficient.,laboratory test report(s),is participated by,[],[],Relation
+Laboratory test report(s) are required on shading coefficient or solar heat gain coefficient.,shading coefficient,is participated by,[],[],Relation
+Laboratory test report(s) are required on shading coefficient or solar heat gain coefficient.,solar heat gain coefficient,is participated by,[],[],Relation
+Laboratory test report(s) are required on daylight transmittance.,laboratory test report(s),is participated by,[],[],Relation
+Laboratory test report(s) are required on daylight transmittance.,daylight transmittance,is participated by,[],[],Relation
+Manufacturer,effective energy management policies,shall have,[],[],Relation
+Manufacturer,energy management programme,shall have,[],[],Relation
+Energy management programme,initiatives to reduce energy use,includes,[],[],Relation
+Energy management programme,initiatives for suppliers or contract manufacturers,includes,[],[],Relation
+Environmental Management System,ISO14001 or EMAS certification,requires,[],[],Relation
+ISO14001 or EMAS,accredited certification body,issued by,[],[],Relation
+Product packaging,halogenated plastics,shall not contain,[],[],Relation
+Packaging materials,100% recycled or readily recyclable,shall be,[],[],Relation
+Technology,reduction of resources used,enables,[],[],Relation
+Glazing product,self-cleaning glass or reactive glazing technology,uses,[],[],Relation
+Product,"quality, safety, air leakage requirements",shall fulfil,[],[],Relation
+Manufacturer,10-year guarantee,shall provide,[],[],Relation
+Glazing products,"substances listed in IARC Group 1, 2A and 2B ≥ 0.1% by weight",shall not contain,[],[],Relation
+Glazing products,organotin compounds,shall not contain,[],[],Relation
+Glazing products,phthalates or polybrominated diphenylethers,shall not contain,[],[],Relation
+The manufacturer of the product shall have effective energy management policies and procedures.,Initiatives taken to reduce energy use and improve energy efficiency.,including,[],[],Relation
+The manufacturer of the product shall have effective energy management policies and procedures.,Initiatives or requirements for suppliers or contract manufacturers.,including,[],[],Relation
+The product packaging shall not contain halogenated plastics.,All packaging materials shall be either comprised of 100% recycled material or readily recyclable.,and,[],[],Relation
+The technology adopted enables the glazing product to reduce resources used in maintenance.,"The technology adopted enables the glazing product to reduce resources used in energy, such as lighting.",or,[],[],Relation
+"The product shall fulfil the quality, safety, air leakage, and other functional requirements.",The manufacturer shall provide a 10-year guarantee to the product.,and,[],[],Relation
+The manufacturer of the product shall have effective energy management policies and procedures.,manufacturer,is participated by,[],[],Relation
+The manufacturer of the product shall have effective energy management policies and procedures.,product,is participated by,[],[],Relation
+The manufacturer of the product shall have an energy management programme.,manufacturer,is participated by,[],[],Relation
+The manufacturer of the product shall have an energy management programme.,product,is participated by,[],[],Relation
+The manufacturer has initiatives taken to reduce energy use and improve energy efficiency.,manufacturer,is participated by,[],[],Relation
+The manufacturer has initiatives or requirements for suppliers or contract manufacturers.,manufacturer,is participated by,[],[],Relation
+The manufacturer has initiatives or requirements for suppliers or contract manufacturers.,suppliers,is participated by,[],[],Relation
+The manufacturer has initiatives or requirements for suppliers or contract manufacturers.,contract manufacturers,is participated by,[],[],Relation
+There is a requirement for valid certification of ISO14001 or the EU Eco-Management and Audit Scheme (EMAS).,ISO14001,is participated by,[],[],Relation
+There is a requirement for valid certification of ISO14001 or the EU Eco-Management and Audit Scheme (EMAS).,EU Eco-Management and Audit Scheme,is participated by,[],[],Relation
+There is a requirement for valid certification of ISO14001 or the EU Eco-Management and Audit Scheme (EMAS).,EMAS,is participated by,[],[],Relation
+Product packaging shall not contain halogenated plastics.,product packaging,is participated by,[],[],Relation
+All packaging materials shall be either comprised of 100% recycled material or readily recyclable.,packaging materials,is participated by,[],[],Relation
+The technology adopted enables the glazing product to reduce resources used in maintenance or energy.,glazing product,is participated by,[],[],Relation
+The technology adopted enables the glazing product to reduce resources used in maintenance or energy.,technology,is participated by,[],[],Relation
+"Product shall fulfil the quality, safety, air leakage and other functional requirements.",product,is participated by,[],[],Relation
+Manufacturer shall provide a 10-year guarantee to the product.,manufacturer,is participated by,[],[],Relation
+Manufacturer shall provide a 10-year guarantee to the product.,product,is participated by,[],[],Relation
+"Product shall NOT contain substances listed in IARC Group 1, 2A and 2B ≥ 0.1% by weight of the product.",product,is participated by,[],[],Relation
+"Product shall NOT contain substances listed in IARC Group 1, 2A and 2B ≥ 0.1% by weight of the product.",IARC Group 1,is participated by,[],[],Relation
+"Product shall NOT contain substances listed in IARC Group 1, 2A and 2B ≥ 0.1% by weight of the product.",IARC Group 2A,is participated by,[],[],Relation
+"Product shall NOT contain substances listed in IARC Group 1, 2A and 2B ≥ 0.1% by weight of the product.",IARC Group 2B,is participated by,[],[],Relation
+Product shall NOT contain organotin compounds.,product,is participated by,[],[],Relation
+Product shall NOT contain organotin compounds.,organotin compounds,is participated by,[],[],Relation
+Product shall NOT contain phthalates or polybrominated diphenylethers.,product,is participated by,[],[],Relation
+Product shall NOT contain phthalates or polybrominated diphenylethers.,phthalates,is participated by,[],[],Relation
+Product shall NOT contain phthalates or polybrominated diphenylethers.,polybrominated diphenylethers,is participated by,[],[],Relation
+European Union Directive 2001/59/EC,harmful substances,classifies,[],[],Relation
+tinted glazing product,toxic heavy metals,shall not contain,[],[],Relation
+toxic heavy metals,"lead (Pb), cadmium (Cd), mercury (Hg), chromium (Cr), arsenic (As), selenium (Se), antimony (Sb), cobalt (Co)",include,[],[],Relation
+double/triple glazing product,chlorinated / brominated paraffins,shall not contain,[],[],Relation
+Filler gases,insulating units,used in,[],[],Relation
+CIC Green Product Certification,HKGBC Green Product Accreditation and Standards,formerly known as,[],[],Relation
+"The European Union Directive 2001/59/EC classifies substances as harmful, toxic, or very toxic.",The following requirements are applicable to tinted glazing product only.,because,[],[],Relation
+Product shall not contain toxic heavy metals or ingredients containing heavy metals.,The requirements are applicable to tinted glazing products.,because,[],[],Relation
+The product shall not contain chlorinated or brominated paraffins.,The requirements are applicable to double/triple glazing products.,because,[],[],Relation
+Filler gases used in the insulating units have a GWP100 of ≤ 5.,The requirements are part of the product specifications.,because,[],[],Relation
+Product shall not contain toxic heavy metals or ingredients containing heavy metals.,Product,is participated by,[],[],Relation
+Product shall not contain toxic heavy metals or ingredients containing heavy metals.,toxic heavy metals,is participated by,[],[],Relation
+Product shall not contain toxic heavy metals or ingredients containing heavy metals.,ingredients containing heavy metals,is participated by,[],[],Relation
+Product shall not contain chlorinated / brominated paraffins.,Product,is participated by,[],[],Relation
+Product shall not contain chlorinated / brominated paraffins.,chlorinated / brominated paraffins,is participated by,[],[],Relation
+Filler gases used in the insulating units are less than or equal to 5 in GWP100.,Filler gases,is participated by,[],[],Relation
+Filler gases used in the insulating units are less than or equal to 5 in GWP100.,insulating units,is participated by,[],[],Relation
+Filler gases used in the insulating units are less than or equal to 5 in GWP100.,GWP100,is participated by,[],[],Relation
+Scheme,Construction Industry Council,is owned by,[],[],Relation
+Scheme,Hong Kong Green Building Council,is implemented by,[],[],Relation
+Scheme,"consumers, building professionals and policy makers",aims to help,[],[],Relation
+Standard,assessment criteria and benchmarks,sets out,[],[],Relation
+Standard,verification methods,defines,[],[],Relation
+glazing products,building material,are used for,[],[],Relation
+glazing products,substances harmful to environment and health,contain,[],[],Relation
+glazing products,energy losses,cause,[],[],Relation
+assessment criteria,energy-efficient building envelop,promote,[],[],Relation
+Standard,glass in windows and building envelop,applies to,[],[],Relation
+Standard,glass blocks and bricks,excludes,[],[],Relation
+application,type and product series,specifies,[],[],Relation
+The Scheme is owned by the Construction Industry Council (CIC) and implemented by the Hong Kong Green Building Council (HKGBC).,"The Scheme aims to help consumers, building professionals, and policy makers identify environmentally preferable building materials and products.",because,[],[],Relation
+The Standard sets out the assessment criteria and their benchmarks for glazing products.,The Standard governs the application and award of a label under the Scheme.,to,[],[],Relation
+The Standard defines the verification methods.,The Standard determines which labelling grade should be awarded to the product according to the assessment criteria.,to,[],[],Relation
+This Standard neither modifies nor supersedes laws and regulations.,Compliance with this Standard is not a substitute for compliance with any applicable laws or regulations.,because,[],[],Relation
+"Glazing products are commonly used for fixed and opening windows, window doors, curtain walls, and other elements of the building envelope.",The glazing area of a building serves as an interface to transmit light and provide an outdoor view.,because,[],[],Relation
+Many glazing products contain substances that may be harmful to the environment and human health.,The greatest environmental impact of glazing products results from energy losses during the building operation stage.,but,[],[],Relation
+The assessment criteria developed for glazing are to promote the use of energy-efficient building envelopes.,The assessment criteria are to minimize the environmental impact through stringent assessment criteria on the production process and use of materials.,and,[],[],Relation
+"The scope of this Standard is applicable to glass in fixed and opening windows, window doors, and other elements of the building envelope.",Glass blocks and bricks or glass used for internal partitions are excluded from this Standard.,but,[],[],Relation
+The Scheme is an environmental labelling scheme owned by the Construction Industry Council and implemented by the Hong Kong Green Building Council.,Scheme,is participated by,[],[],Relation
+The Scheme is an environmental labelling scheme owned by the Construction Industry Council and implemented by the Hong Kong Green Building Council.,Construction Industry Council,is participated by,[],[],Relation
+The Scheme is an environmental labelling scheme owned by the Construction Industry Council and implemented by the Hong Kong Green Building Council.,Hong Kong Green Building Council,is participated by,[],[],Relation
+"The Scheme aims to help consumers, building professionals, and policy makers identify environmentally preferable building materials and products.",Scheme,is participated by,[],[],Relation
+"The Scheme aims to help consumers, building professionals, and policy makers identify environmentally preferable building materials and products.",consumers,is participated by,[],[],Relation
+"The Scheme aims to help consumers, building professionals, and policy makers identify environmentally preferable building materials and products.",building professionals,is participated by,[],[],Relation
+"The Scheme aims to help consumers, building professionals, and policy makers identify environmentally preferable building materials and products.",policy makers,is participated by,[],[],Relation
+The Standard sets out the assessment criteria and their benchmarks for glazing products to govern the application and award of a label under the Scheme.,Standard,is participated by,[],[],Relation
+The Standard sets out the assessment criteria and their benchmarks for glazing products to govern the application and award of a label under the Scheme.,glazing products,is participated by,[],[],Relation
+The Standard sets out the assessment criteria and their benchmarks for glazing products to govern the application and award of a label under the Scheme.,Scheme,is participated by,[],[],Relation
+The Standard defines the verification methods to determine which labelling grade should be awarded to the product according to the assessment criteria.,Standard,is participated by,[],[],Relation
+The Standard defines the verification methods to determine which labelling grade should be awarded to the product according to the assessment criteria.,verification methods,is participated by,[],[],Relation
+The Standard defines the verification methods to determine which labelling grade should be awarded to the product according to the assessment criteria.,product,is participated by,[],[],Relation
+The Standard defines the verification methods to determine which labelling grade should be awarded to the product according to the assessment criteria.,assessment criteria,is participated by,[],[],Relation
+This Standard neither modifies nor supersedes laws and regulations.,Standard,is participated by,[],[],Relation
+This Standard neither modifies nor supersedes laws and regulations.,laws,is participated by,[],[],Relation
+This Standard neither modifies nor supersedes laws and regulations.,regulations,is participated by,[],[],Relation
+Compliance with this Standard is not a substitute for compliance with any applicable laws or regulations.,Standard,is participated by,[],[],Relation
+Compliance with this Standard is not a substitute for compliance with any applicable laws or regulations.,laws,is participated by,[],[],Relation
+Compliance with this Standard is not a substitute for compliance with any applicable laws or regulations.,regulations,is participated by,[],[],Relation
+Compliance with all applicable laws and regulations is a prerequisite for the manufacturing and marketing of the product.,laws,is participated by,[],[],Relation
+Compliance with all applicable laws and regulations is a prerequisite for the manufacturing and marketing of the product.,regulations,is participated by,[],[],Relation
+Compliance with all applicable laws and regulations is a prerequisite for the manufacturing and marketing of the product.,manufacturing,is participated by,[],[],Relation
+Compliance with all applicable laws and regulations is a prerequisite for the manufacturing and marketing of the product.,marketing,is participated by,[],[],Relation
+Compliance with all applicable laws and regulations is a prerequisite for the manufacturing and marketing of the product.,product,is participated by,[],[],Relation
+"Glazing products are commonly used building material for fixed and opening windows, window doors, curtain walls and other elements of the building envelope.",Glazing products,is participated by,[],[],Relation
+"Glazing products are commonly used building material for fixed and opening windows, window doors, curtain walls and other elements of the building envelope.",fixed and opening windows,is participated by,[],[],Relation
+"Glazing products are commonly used building material for fixed and opening windows, window doors, curtain walls and other elements of the building envelope.",window doors,is participated by,[],[],Relation
+"Glazing products are commonly used building material for fixed and opening windows, window doors, curtain walls and other elements of the building envelope.",curtain walls,is participated by,[],[],Relation
+"Glazing products are commonly used building material for fixed and opening windows, window doors, curtain walls and other elements of the building envelope.",building envelope,is participated by,[],[],Relation
+"The glazing area of a building could account for 10 to 25% of a building's exposed surface, serving as an interface to transmit light and provide outdoor view.",glazing area,is participated by,[],[],Relation
+"The glazing area of a building could account for 10 to 25% of a building's exposed surface, serving as an interface to transmit light and provide outdoor view.",building,is participated by,[],[],Relation
+"The glazing area of a building could account for 10 to 25% of a building's exposed surface, serving as an interface to transmit light and provide outdoor view.",exposed surface,is participated by,[],[],Relation
+"The glazing area of a building could account for 10 to 25% of a building's exposed surface, serving as an interface to transmit light and provide outdoor view.",light,is participated by,[],[],Relation
+"The glazing area of a building could account for 10 to 25% of a building's exposed surface, serving as an interface to transmit light and provide outdoor view.",outdoor view,is participated by,[],[],Relation
+"Common types of glazing being used in architectural applications include clear and tinted float glass, tempered glass, and laminated glass as well as a variety of coated glasses.",glazing,is participated by,[],[],Relation
+"Common types of glazing being used in architectural applications include clear and tinted float glass, tempered glass, and laminated glass as well as a variety of coated glasses.",clear and tinted float glass,is participated by,[],[],Relation
+"Common types of glazing being used in architectural applications include clear and tinted float glass, tempered glass, and laminated glass as well as a variety of coated glasses.",tempered glass,is participated by,[],[],Relation
+"Common types of glazing being used in architectural applications include clear and tinted float glass, tempered glass, and laminated glass as well as a variety of coated glasses.",laminated glass,is participated by,[],[],Relation
+"Common types of glazing being used in architectural applications include clear and tinted float glass, tempered glass, and laminated glass as well as a variety of coated glasses.",coated glasses,is participated by,[],[],Relation
+Many glazing products contain substances that may be harmful to the environment and human health.,glazing products,is participated by,[],[],Relation
+Many glazing products contain substances that may be harmful to the environment and human health.,substances,is participated by,[],[],Relation
+Many glazing products contain substances that may be harmful to the environment and human health.,environment,is participated by,[],[],Relation
+Many glazing products contain substances that may be harmful to the environment and human health.,human health,is participated by,[],[],Relation
+The greatest environmental impact of glazing products results from the energy losses during the building operation stage due to their long technical service life.,environmental impact,is participated by,[],[],Relation
+The greatest environmental impact of glazing products results from the energy losses during the building operation stage due to their long technical service life.,glazing products,is participated by,[],[],Relation
+The greatest environmental impact of glazing products results from the energy losses during the building operation stage due to their long technical service life.,energy losses,is participated by,[],[],Relation
+The greatest environmental impact of glazing products results from the energy losses during the building operation stage due to their long technical service life.,building operation stage,is participated by,[],[],Relation
+The greatest environmental impact of glazing products results from the energy losses during the building operation stage due to their long technical service life.,technical service life,is participated by,[],[],Relation
+The purposes of the assessment criteria developed for glazing are to promote the use of energy-efficient building envelope and to minimize the environmental impact through stringent assessment criteria on the production process and use of materials.,assessment criteria,is participated by,[],[],Relation
+The purposes of the assessment criteria developed for glazing are to promote the use of energy-efficient building envelope and to minimize the environmental impact through stringent assessment criteria on the production process and use of materials.,glazing,is participated by,[],[],Relation
+The purposes of the assessment criteria developed for glazing are to promote the use of energy-efficient building envelope and to minimize the environmental impact through stringent assessment criteria on the production process and use of materials.,energy-efficient building envelope,is participated by,[],[],Relation
+The purposes of the assessment criteria developed for glazing are to promote the use of energy-efficient building envelope and to minimize the environmental impact through stringent assessment criteria on the production process and use of materials.,environmental impact,is participated by,[],[],Relation
+The purposes of the assessment criteria developed for glazing are to promote the use of energy-efficient building envelope and to minimize the environmental impact through stringent assessment criteria on the production process and use of materials.,production process,is participated by,[],[],Relation
+The purposes of the assessment criteria developed for glazing are to promote the use of energy-efficient building envelope and to minimize the environmental impact through stringent assessment criteria on the production process and use of materials.,materials,is participated by,[],[],Relation
+"The scope of this Standard is applicable to glass in fixed and opening windows, window doors, and other elements of the building envelope.",Standard,is participated by,[],[],Relation
+"The scope of this Standard is applicable to glass in fixed and opening windows, window doors, and other elements of the building envelope.",glass,is participated by,[],[],Relation
+"The scope of this Standard is applicable to glass in fixed and opening windows, window doors, and other elements of the building envelope.",fixed and opening windows,is participated by,[],[],Relation
+"The scope of this Standard is applicable to glass in fixed and opening windows, window doors, and other elements of the building envelope.",window doors,is participated by,[],[],Relation
+"The scope of this Standard is applicable to glass in fixed and opening windows, window doors, and other elements of the building envelope.",building envelope,is participated by,[],[],Relation
+Glass blocks and bricks or glass used for internal partitions are excluded from this Standard.,glass blocks,is participated by,[],[],Relation
+Glass blocks and bricks or glass used for internal partitions are excluded from this Standard.,bricks,is participated by,[],[],Relation
+Glass blocks and bricks or glass used for internal partitions are excluded from this Standard.,glass,is participated by,[],[],Relation
+Glass blocks and bricks or glass used for internal partitions are excluded from this Standard.,internal partitions,is participated by,[],[],Relation
+Glass blocks and bricks or glass used for internal partitions are excluded from this Standard.,Standard,is participated by,[],[],Relation
+Each application should specify its types and product series.,application,is participated by,[],[],Relation
+Each application should specify its types and product series.,types,is participated by,[],[],Relation
+Each application should specify its types and product series.,product series,is participated by,[],[],Relation
+One application is only for one product series with the same type of glazing.,application,is participated by,[],[],Relation
+One application is only for one product series with the same type of glazing.,product series,is participated by,[],[],Relation
+One application is only for one product series with the same type of glazing.,glazing,is participated by,[],[],Relation
+Subsequent applications can be made for similar products with different thickness and/or coatings under a labelled product series.,applications,is participated by,[],[],Relation
+Subsequent applications can be made for similar products with different thickness and/or coatings under a labelled product series.,products,is participated by,[],[],Relation
+Subsequent applications can be made for similar products with different thickness and/or coatings under a labelled product series.,thickness,is participated by,[],[],Relation
+Subsequent applications can be made for similar products with different thickness and/or coatings under a labelled product series.,coatings,is participated by,[],[],Relation
+Subsequent applications can be made for similar products with different thickness and/or coatings under a labelled product series.,labelled product series,is participated by,[],[],Relation
+A labelled product series is only eligible for applying within the validity period of the label.,labelled product series,is participated by,[],[],Relation
+A labelled product series is only eligible for applying within the validity period of the label.,validity period,is participated by,[],[],Relation
+A labelled product series is only eligible for applying within the validity period of the label.,label,is participated by,[],[],Relation
+CIC,Green Product Certification,administers,[],[],Relation
+CIC,Green Label,provides,[],[],Relation
+CNAS,Conformity Assessment,accredits,[],[],Relation
+Double or triple glazing,two layers of glass,consists of,[],[],Relation
+External reflectance,daylight reflected,measures,[],[],Relation
+Glazing,glass,is made of,[],[],Relation
+HKAS,Accreditation Service,provides,[],[],Relation
+HKGBC,Green Building Council,operates,[],[],Relation
+HOKLAS,Laboratory Accreditation Scheme,administers,[],[],Relation
+IARC,Cancer Research,conducts,[],[],Relation
+ISO,Organisations,standardizes,[],[],Relation
+MSDS,Safety Data,provides,[],[],Relation
+Shading coefficient,solar heat gain,compares,[],[],Relation
+Single glazing,single sheet of glass,consists of,[],[],Relation
+Solar heat gain coefficient,solar heat gain,measures,[],[],Relation
+Standard single glazing,3mm clear float glass,refers to,[],[],Relation
+Third-party,product or service,evaluates,[],[],Relation
+U-value,heat transfer,calculates,[],[],Relation
+Visible light transmittance,visible light transmission,measures,[],[],Relation
+A product to be assessed should meet all the minimum requirements of the 'Core Criteria'.,be awarded a 'Green' Label under the Scheme.,in order to,[],[],Relation
+Bonus points may be awarded if the product meets the 'Non-core Criteria'.,"a 'Bronze', 'Silver', 'Gold' or 'Platinum' Label will be awarded according to the total points accumulated.",and,[],[],Relation
+All submissions and documentations shall be endorsed by the Chief Executive Officer or other authorised.,submissions are considered complete.,before,[],[],Relation
+A product to be assessed should meet all the minimum requirements of the 'Core Criteria' to be awarded a 'Green' Label under the Scheme.,product,is participated by,[],[],Relation
+A product to be assessed should meet all the minimum requirements of the 'Core Criteria' to be awarded a 'Green' Label under the Scheme.,Core Criteria,is participated by,[],[],Relation
+A product to be assessed should meet all the minimum requirements of the 'Core Criteria' to be awarded a 'Green' Label under the Scheme.,Scheme,is participated by,[],[],Relation
+Bonus points may be awarded if the product meets the 'Non-core Criteria'.,product,is participated by,[],[],Relation
+Bonus points may be awarded if the product meets the 'Non-core Criteria'.,Non-core Criteria,is participated by,[],[],Relation
+"A 'Bronze', 'Silver', 'Gold' or 'Platinum' Label will be awarded according to the total points accumulated.",Bronze Label,is participated by,[],[],Relation
+"A 'Bronze', 'Silver', 'Gold' or 'Platinum' Label will be awarded according to the total points accumulated.",Silver Label,is participated by,[],[],Relation
+"A 'Bronze', 'Silver', 'Gold' or 'Platinum' Label will be awarded according to the total points accumulated.",Gold Label,is participated by,[],[],Relation
+"A 'Bronze', 'Silver', 'Gold' or 'Platinum' Label will be awarded according to the total points accumulated.",Platinum Label,is participated by,[],[],Relation
+"A 'Bronze', 'Silver', 'Gold' or 'Platinum' Label will be awarded according to the total points accumulated.",points,is participated by,[],[],Relation
+All submissions and documentations shall be endorsed by the Chief Executive Officer or other authorised persons.,submissions,is participated by,[],[],Relation
+All submissions and documentations shall be endorsed by the Chief Executive Officer or other authorised persons.,documentations,is participated by,[],[],Relation
+All submissions and documentations shall be endorsed by the Chief Executive Officer or other authorised persons.,Chief Executive Officer,is participated by,[],[],Relation
+All submissions and documentations shall be endorsed by the Chief Executive Officer or other authorised persons.,authorised persons,is participated by,[],[],Relation
+Applicant,conformance to assessment criteria,demonstrate,[],[],Relation
+Certification,valid during assessment process,must be,[],[],Relation
+Laboratory report,valid during assessment process,must be,[],[],Relation
+Validity,5 years from date of issue,shall be,[],[],Relation
+Chemical tests,third party or manufacturer,should be conducted by,[],[],Relation
+Third party or manufacturer,ISO17025 certification,has received,[],[],Relation
+Product,"quality, safety, air leakage and other functional requirements",shall fulfil,[],[],Relation
+Glass manufacturer,10-year guarantee,shall provide,[],[],Relation
+Tests,third party or manufacturer,should be conducted by,[],[],Relation
+Manufacturer,ISO 17025 certification,has received,[],[],Relation
+Manufacturer,valid certificates of ISO14001 or EMAS,shall possess,[],[],Relation
+Targets,environmental impacts during manufacturing,shall be set to reduce,[],[],Relation
+Product manufacturer,essential information with each delivery,shall provide,[],[],Relation
+The validity of all laboratory report and documentation shall be 5 years from the date of issue.,"All certification, laboratory report and documentation must be valid during the assessment process and labelling period.",before,[],[],Relation
+The chemical tests should be conducted by either a third party or the manufacturer who has received the ISO17025 certification or relevant national accreditation systems.,"All certification, laboratory report and documentation must be valid during the assessment process and labelling period.",because,[],[],Relation
+"The product shall fulfil the quality, safety, air leakage and other functional requirements according to the British Standards (BS), BS EN (European Standard), American Society for Testing and Materials (ASTM), Chinese National Standard (GB) or equivalent national standards.",The product earns 5 Points (Non-Core Criterion) for Serviceability.,as a result,[],[],Relation
+Glass manufacturer shall provide a 10-year guarantee covering functions and quality according to relevant standards.,"The product shall fulfil the quality, safety, air leakage and other functional requirements according to the British Standards.",after,[],[],Relation
+The tests should be conducted by either a third party or manufacturer who has received ISO 17025 certification or national accreditation systems.,Verification requires laboratory test report(s) for all relevant quality and performance tests.,because,[],[],Relation
+Manufacturer of the products shall possess valid certificates of ISO14001 or the EU Eco-Management and Audit Scheme (EMAS).,The manufacturer earns 5 Points (Non-Core Criterion) for Environmental Management System.,as a result,[],[],Relation
+Targets shall be set to reduce the environmental impacts during the manufacturing process.,Manufacturer of the products shall possess valid certificates of ISO14001 or the EU Eco-Management and Audit Scheme (EMAS).,because,[],[],Relation
+A valid ISO14001 or EMAS Certificate issued by local or overseas accredited certification bodies is required.,Verification of the Environmental Management System requires certification.,because,[],[],Relation
+The essential information shall be provided by the product manufacturer with each delivery of the glazing products or made available to the public.,The product earns 5 Points (Core Criterion) for Product Information.,as a result,[],[],Relation
+"Instructions on how the product shall be installed, adjusted and protected in a sustainable manner shall be provided.",The essential information shall be provided by the product manufacturer with each delivery of the glazing products or made available to the public.,because,[],[],Relation
+Persons of the Applicant demonstrate conformance to the assessment criteria.,persons of the Applicant,is participated by,[],[],Relation
+"All certification, laboratory report and documentation must be valid during the assessment process and labelling period.",certification,is participated by,[],[],Relation
+"All certification, laboratory report and documentation must be valid during the assessment process and labelling period.",laboratory report,is participated by,[],[],Relation
+"All certification, laboratory report and documentation must be valid during the assessment process and labelling period.",documentation,is participated by,[],[],Relation
+The validity of all laboratory report and documentation shall be 5 years from the date of issue.,laboratory report,is participated by,[],[],Relation
+The validity of all laboratory report and documentation shall be 5 years from the date of issue.,documentation,is participated by,[],[],Relation
+The chemical tests should be conducted by either a third party or the manufacturer who has received the ISO17025 certification or relevant national accreditation systems.,third party,is participated by,[],[],Relation
+The chemical tests should be conducted by either a third party or the manufacturer who has received the ISO17025 certification or relevant national accreditation systems.,manufacturer,is participated by,[],[],Relation
+The chemical tests should be conducted by either a third party or the manufacturer who has received the ISO17025 certification or relevant national accreditation systems.,ISO17025 certification,is participated by,[],[],Relation
+The chemical tests should be conducted by either a third party or the manufacturer who has received the ISO17025 certification or relevant national accreditation systems.,national accreditation systems,is participated by,[],[],Relation
+"The product shall fulfil the quality, safety, air leakage and other functional requirements according to the British Standards, BS EN, ASTM, Chinese National Standard or equivalent national standards.",product,is participated by,[],[],Relation
+"The product shall fulfil the quality, safety, air leakage and other functional requirements according to the British Standards, BS EN, ASTM, Chinese National Standard or equivalent national standards.",British Standards,is participated by,[],[],Relation
+"The product shall fulfil the quality, safety, air leakage and other functional requirements according to the British Standards, BS EN, ASTM, Chinese National Standard or equivalent national standards.",BS EN,is participated by,[],[],Relation
+"The product shall fulfil the quality, safety, air leakage and other functional requirements according to the British Standards, BS EN, ASTM, Chinese National Standard or equivalent national standards.",ASTM,is participated by,[],[],Relation
+"The product shall fulfil the quality, safety, air leakage and other functional requirements according to the British Standards, BS EN, ASTM, Chinese National Standard or equivalent national standards.",Chinese National Standard,is participated by,[],[],Relation
+"The product shall fulfil the quality, safety, air leakage and other functional requirements according to the British Standards, BS EN, ASTM, Chinese National Standard or equivalent national standards.",national standards,is participated by,[],[],Relation
+Glass manufacturer shall provide a 10-year guarantee covering functions and quality according to relevant standards.,glass manufacturer,is participated by,[],[],Relation
+Glass manufacturer shall provide a 10-year guarantee covering functions and quality according to relevant standards.,10-year guarantee,is participated by,[],[],Relation
+Glass manufacturer shall provide a 10-year guarantee covering functions and quality according to relevant standards.,relevant standards,is participated by,[],[],Relation
+The tests should be conducted by either a third party or manufacturer who has received ISO 17025 certification or national accreditation systems.,third party,is participated by,[],[],Relation
+The tests should be conducted by either a third party or manufacturer who has received ISO 17025 certification or national accreditation systems.,manufacturer,is participated by,[],[],Relation
+The tests should be conducted by either a third party or manufacturer who has received ISO 17025 certification or national accreditation systems.,ISO 17025 certification,is participated by,[],[],Relation
+The tests should be conducted by either a third party or manufacturer who has received ISO 17025 certification or national accreditation systems.,national accreditation systems,is participated by,[],[],Relation
+Guarantee certificate supplied with the product or made available to the public.,guarantee certificate,is participated by,[],[],Relation
+Guarantee certificate supplied with the product or made available to the public.,product,is participated by,[],[],Relation
+Guarantee certificate supplied with the product or made available to the public.,public,is participated by,[],[],Relation
+Manufacturer of the products shall possess valid certificates of ISO14001 or the EU Eco-Management and Audit Scheme.,manufacturer,is participated by,[],[],Relation
+Manufacturer of the products shall possess valid certificates of ISO14001 or the EU Eco-Management and Audit Scheme.,products,is participated by,[],[],Relation
+Manufacturer of the products shall possess valid certificates of ISO14001 or the EU Eco-Management and Audit Scheme.,ISO14001,is participated by,[],[],Relation
+Manufacturer of the products shall possess valid certificates of ISO14001 or the EU Eco-Management and Audit Scheme.,EU Eco-Management and Audit Scheme,is participated by,[],[],Relation
+Targets shall be set to reduce the environmental impacts during the manufacturing process.,targets,is participated by,[],[],Relation
+Targets shall be set to reduce the environmental impacts during the manufacturing process.,environmental impacts,is participated by,[],[],Relation
+Targets shall be set to reduce the environmental impacts during the manufacturing process.,manufacturing process,is participated by,[],[],Relation
+A valid ISO14001 or EMAS Certificate issued by local or overseas accredited certification bodies.,ISO14001 Certificate,is participated by,[],[],Relation
+A valid ISO14001 or EMAS Certificate issued by local or overseas accredited certification bodies.,EMAS Certificate,is participated by,[],[],Relation
+A valid ISO14001 or EMAS Certificate issued by local or overseas accredited certification bodies.,local certification bodies,is participated by,[],[],Relation
+A valid ISO14001 or EMAS Certificate issued by local or overseas accredited certification bodies.,overseas accredited certification bodies,is participated by,[],[],Relation
+The following essential information shall be provided by the product manufacturer with each delivery of the glazing products or made available to the public.,product manufacturer,is participated by,[],[],Relation
+The following essential information shall be provided by the product manufacturer with each delivery of the glazing products or made available to the public.,glazing products,is participated by,[],[],Relation
+The following essential information shall be provided by the product manufacturer with each delivery of the glazing products or made available to the public.,public,is participated by,[],[],Relation
+Packaging materials,product,envelop,[],[],Relation
+Packaging materials,recyclable,be,[],[],Relation
+Glazing products,durability,advocate,[],[],Relation
+Manufacturers,innovative technologies,adopt,[],[],Relation
+Technology,glazing products,enable,[],[],Relation
+U-value,heat transfer,measure,[],[],Relation
+Low U-value,well insulated glazing product,indicate,[],[],Relation
+The packaging requirements are relevant to all primary packaging materials.,The primary packaging materials are usually in direct contact with the contents.,because,[],[],Relation
+The primary packaging materials are usually in direct contact with the contents.,They shall be in the minimal amount of distribution and/or use as they may eventually be disposed by the consumers.,as a result,[],[],Relation
+The packaging materials shall not contain halogenated plastics.,"The packaging materials shall be comprised of 100% recycled material or be readily recyclable, decomposable, or contain no coatings, impregnated chemicals or other materials that would prevent recycling or decomposition.",at the same time,[],[],Relation
+Durability and environmental performance of glazing products is advocated in the glazing industry.,"There is an increasing awareness of 'green products' among the contractors, architects and end-users.",because,[],[],Relation
+Manufacturers have been investigating and adopting innovative technologies.,Enhance the durability and environmental performance of the glazing products.,to,[],[],Relation
+High durability of glazing products can reduce resource consumption.,This criterion aims to increase manufacturers' incentives in embedding extra environmental features.,as a result,[],[],Relation
+The technology adopted in the glazing manufacturing can enable the glazing products to reduce resources used in maintenance.,Self-cleaning glass.,for example,[],[],Relation
+The technology adopted in the glazing manufacturing can enable the glazing products to reduce resources used in energy.,Instantly reactive glazing technology that changes the glass from clear to a dark blue tint.,for example,[],[],Relation
+A low U-value indicates the glazing product is well insulated.,A reduction of cooling load.,resulting in,[],[],Relation
+The packaging requirements are relevant to all primary packaging materials.,primary packaging materials,is participated by,[],[],Relation
+The packaging requirements are relevant to all primary packaging materials.,product,is participated by,[],[],Relation
+Primary packaging materials are usually in direct contact with the contents.,primary packaging materials,is participated by,[],[],Relation
+Primary packaging materials are usually in direct contact with the contents.,contents,is participated by,[],[],Relation
+Primary packaging materials shall be in the minimal amount of distribution and/or use.,primary packaging materials,is participated by,[],[],Relation
+Primary packaging materials shall be in the minimal amount of distribution and/or use.,consumers,is participated by,[],[],Relation
+Packaging materials shall not contain halogenated plastics.,packaging materials,is participated by,[],[],Relation
+Packaging materials shall not contain halogenated plastics.,halogenated plastics,is participated by,[],[],Relation
+Packaging materials shall be comprised of 100% recycled material or be readily recyclable.,packaging materials,is participated by,[],[],Relation
+Packaging materials shall be comprised of 100% recycled material or be readily recyclable.,recycled material,is participated by,[],[],Relation
+Manufacturers have been investigating and adopting innovative technologies to enhance the durability and environmental performance of the glazing products.,manufacturers,is participated by,[],[],Relation
+Manufacturers have been investigating and adopting innovative technologies to enhance the durability and environmental performance of the glazing products.,glazing products,is participated by,[],[],Relation
+High durability of glazing products can reduce resource consumption.,glazing products,is participated by,[],[],Relation
+High durability of glazing products can reduce resource consumption.,resource consumption,is participated by,[],[],Relation
+The technology adopted in glazing manufacturing can enable the glazing products to reduce resources used in maintenance.,technology,is participated by,[],[],Relation
+The technology adopted in glazing manufacturing can enable the glazing products to reduce resources used in maintenance.,glazing manufacturing,is participated by,[],[],Relation
+The technology adopted in glazing manufacturing can enable the glazing products to reduce resources used in maintenance.,glazing products,is participated by,[],[],Relation
+The technology adopted in glazing manufacturing can enable the glazing products to reduce resources used in maintenance.,resources,is participated by,[],[],Relation
+The U-value measures how well a glazing product transfers heat.,U-value,is participated by,[],[],Relation
+The U-value measures how well a glazing product transfers heat.,glazing product,is participated by,[],[],Relation
+A low U-value indicates the glazing product is well insulated.,low U-value,is participated by,[],[],Relation
+A low U-value indicates the glazing product is well insulated.,glazing product,is participated by,[],[],Relation
+U-value,ISO 8990,measured according to,[],[],Relation
+U-value,EN-ISO 12567,measured according to,[],[],Relation
+U-value,EN673,calculated according to,[],[],Relation
+U-value,EN ISO 10077,calculated according to,[],[],Relation
+Shading coefficient,product blocks heat,portrays,[],[],Relation
+Solar heat gain coefficient,product blocks heat,portrays,[],[],Relation
+SHGC,equation,converted according to,[],[],Relation
+Visible light transmittance,amount of visible light transmitted,indicates,[],[],Relation
+Visible light transmittance,EN 410,measured according to,[],[],Relation
+Visible light transmittance,ISO 9050,measured according to,[],[],Relation
+External reflectance,light reflected by the glazing product,measures,[],[],Relation
+External reflectance,hindrances caused by sunlight,intended to minimise,[],[],Relation
+Spectral measurements,ASTM E903,comply with,[],[],Relation
+Energy Management,policies and procedures,includes,[],[],Relation
+Bonus points will be awarded if the U-value of the product reaches the standard in Table 1.,The U-value meets the limits below.,because,[],[],Relation
+The U-value should be measured according to the applicable ISO 8990 or EN-ISO 12567 standard.,The U-value can be calculated according to the standard EN673 and EN ISO 10077.,alternatively,[],[],Relation
+SC or SHGC of the glazing products shall meet the limits below (Table 2).,Bonus points will be awarded if SC or SHGC of the product meets the standard in Table 2.,because,[],[],Relation
+VLT of the glazing product shall be greater than 50%.,FIVE bonus points will be awarded if VLT of the product shall reach 70%.,because,[],[],Relation
+The external reflectance of glazing product shall be less than 20%.,Limiting external reflectance on buildings is intended to minimise hindrances caused by sunlight.,because,[],[],Relation
+"Laboratory test report(s) on the SC, SHGC, external reflectance and VLT of the glazing product.",Spectral measurements shall comply with ASTM E903 and the SHGC and VLT should be measured in accordance with the EN 410 or ISO 9050 standard.,should,[],[],Relation
+Bonus points will be awarded if the U-value of the product reaches the standard in Table 1.,Bonus points,is participated by,[],[],Relation
+Bonus points will be awarded if the U-value of the product reaches the standard in Table 1.,U-value,is participated by,[],[],Relation
+Bonus points will be awarded if the U-value of the product reaches the standard in Table 1.,product,is participated by,[],[],Relation
+Bonus points will be awarded if the U-value of the product reaches the standard in Table 1.,standard,is participated by,[],[],Relation
+Bonus points will be awarded if the U-value of the product reaches the standard in Table 1.,Table 1,is participated by,[],[],Relation
+The U-value should be measured according to the applicable ISO 8990 or EN-ISO 12567 standard.,U-value,is participated by,[],[],Relation
+The U-value should be measured according to the applicable ISO 8990 or EN-ISO 12567 standard.,ISO 8990,is participated by,[],[],Relation
+The U-value should be measured according to the applicable ISO 8990 or EN-ISO 12567 standard.,EN-ISO 12567,is participated by,[],[],Relation
+The U-value should be measured according to the applicable ISO 8990 or EN-ISO 12567 standard.,standard,is participated by,[],[],Relation
+The U-value can be calculated according to the standard EN673 and EN ISO 10077.,U-value,is participated by,[],[],Relation
+The U-value can be calculated according to the standard EN673 and EN ISO 10077.,standard,is participated by,[],[],Relation
+The U-value can be calculated according to the standard EN673 and EN ISO 10077.,EN673,is participated by,[],[],Relation
+The U-value can be calculated according to the standard EN673 and EN ISO 10077.,EN ISO 10077,is participated by,[],[],Relation
+SC or SHGC of the glazing products shall meet the limits in Table 2.,SC,is participated by,[],[],Relation
+SC or SHGC of the glazing products shall meet the limits in Table 2.,SHGC,is participated by,[],[],Relation
+SC or SHGC of the glazing products shall meet the limits in Table 2.,glazing products,is participated by,[],[],Relation
+SC or SHGC of the glazing products shall meet the limits in Table 2.,limits,is participated by,[],[],Relation
+SC or SHGC of the glazing products shall meet the limits in Table 2.,Table 2,is participated by,[],[],Relation
+Bonus points will be awarded if SC or SHGC of the product meets the standard in Table 2.,Bonus points,is participated by,[],[],Relation
+Bonus points will be awarded if SC or SHGC of the product meets the standard in Table 2.,SC,is participated by,[],[],Relation
+Bonus points will be awarded if SC or SHGC of the product meets the standard in Table 2.,SHGC,is participated by,[],[],Relation
+Bonus points will be awarded if SC or SHGC of the product meets the standard in Table 2.,product,is participated by,[],[],Relation
+Bonus points will be awarded if SC or SHGC of the product meets the standard in Table 2.,standard,is participated by,[],[],Relation
+Bonus points will be awarded if SC or SHGC of the product meets the standard in Table 2.,Table 2,is participated by,[],[],Relation
+VLT of the glazing product shall be greater than 50%.,VLT,is participated by,[],[],Relation
+VLT of the glazing product shall be greater than 50%.,glazing product,is participated by,[],[],Relation
+VLT of the glazing product shall be greater than 50%.,50%,is participated by,[],[],Relation
+FIVE bonus points will be awarded if VLT of the product reaches 70%.,FIVE bonus points,is participated by,[],[],Relation
+FIVE bonus points will be awarded if VLT of the product reaches 70%.,VLT,is participated by,[],[],Relation
+FIVE bonus points will be awarded if VLT of the product reaches 70%.,product,is participated by,[],[],Relation
+FIVE bonus points will be awarded if VLT of the product reaches 70%.,70%,is participated by,[],[],Relation
+External reflectance of the glazing product shall be less than 20%.,External reflectance,is participated by,[],[],Relation
+External reflectance of the glazing product shall be less than 20%.,glazing product,is participated by,[],[],Relation
+External reflectance of the glazing product shall be less than 20%.,20%,is participated by,[],[],Relation
+"Laboratory test report(s) on the SC, SHGC, external reflectance and VLT of the glazing product.",Laboratory test report(s),is participated by,[],[],Relation
+"Laboratory test report(s) on the SC, SHGC, external reflectance and VLT of the glazing product.",SC,is participated by,[],[],Relation
+"Laboratory test report(s) on the SC, SHGC, external reflectance and VLT of the glazing product.",SHGC,is participated by,[],[],Relation
+"Laboratory test report(s) on the SC, SHGC, external reflectance and VLT of the glazing product.",external reflectance,is participated by,[],[],Relation
+"Laboratory test report(s) on the SC, SHGC, external reflectance and VLT of the glazing product.",VLT,is participated by,[],[],Relation
+"Laboratory test report(s) on the SC, SHGC, external reflectance and VLT of the glazing product.",glazing product,is participated by,[],[],Relation
+Spectral measurements shall comply with ASTM E903.,Spectral measurements,is participated by,[],[],Relation
+Spectral measurements shall comply with ASTM E903.,ASTM E903,is participated by,[],[],Relation
+The SHGC and VLT should be measured in accordance with the EN 410 or ISO 9050 standard.,SHGC,is participated by,[],[],Relation
+The SHGC and VLT should be measured in accordance with the EN 410 or ISO 9050 standard.,VLT,is participated by,[],[],Relation
+The SHGC and VLT should be measured in accordance with the EN 410 or ISO 9050 standard.,EN 410,is participated by,[],[],Relation
+The SHGC and VLT should be measured in accordance with the EN 410 or ISO 9050 standard.,ISO 9050,is participated by,[],[],Relation
+The SHGC and VLT should be measured in accordance with the EN 410 or ISO 9050 standard.,standard,is participated by,[],[],Relation
+The Applicant shall have effective energy management policies and procedures.,Applicant,is participated by,[],[],Relation
+The Applicant shall have effective energy management policies and procedures.,energy management policies,is participated by,[],[],Relation
+The Applicant shall have effective energy management policies and procedures.,procedures,is participated by,[],[],Relation
+Energy management programme,support,require,[],[],Relation
+Support,initiatives,include,[],[],Relation
+Initiatives,reduce energy use,aim,[],[],Relation
+Initiatives,improve energy efficiency,aim,[],[],Relation
+Energy management policies,verification,require,[],[],Relation
+Verification,Chief Executive Officer,involve,[],[],Relation
+Glazing product,carcinogenic substances,shall not contain,[],[],Relation
+Carcinogenic substances,International Agency for Research on Cancer,classified by,[],[],Relation
+Glazing product,organotin compounds,shall not contain,[],[],Relation
+Glazing product,phthalates,shall not contain,[],[],Relation
+Glazing product,polybrominated diphenyl ethers,shall not contain,[],[],Relation
+Tinted glazing products,toxic heavy metals,shall not contain,[],[],Relation
+Double/triple glazing products,chlorinated / brominated paraffins,shall not contain,[],[],Relation
+Filler gases,100-year global warming potential > 5,shall not be used,[],[],Relation
+Verification,laboratory test report(s),include,[],[],Relation
+Verification,MSDS,include,[],[],Relation
+Verification,self-declaration letter,include,[],[],Relation
+Verification,production documentation,include,[],[],Relation
+Points,Table 2,summarised in,[],[],Relation
+Table 2,evaluation criteria,include,[],[],Relation
+Initiatives taken to reduce energy use and improve energy efficiency are submitted as support for an energy management programme.,"Energy management policies, procedures and programmes are written or signed by the Chief Executive Officer or other authorised representative of the Applicant.",before,[],[],Relation
+"The glazing product shall not contain any carcinogenic substances or chemicals classified by the IARC in Group 1, 2A or 2B.",Any such carcinogens known to be present as contaminants shall be less than 0.1% by weight of the product.,as a result,[],[],Relation
+"The product shall not contain organotin compounds, phthalates, or polybrominated diphenyl ethers (PBDEs), and be classified as harmful, toxic, or very toxic in accordance with EU Directives 2001/59/EC.","The glazing product shall not contain any carcinogenic substances or chemicals classified by the IARC in Group 1, 2A or 2B.",because,[],[],Relation
+"The product shall not contain toxic heavy metals, or ingredients containing heavy metals, including lead, cadmium, mercury, chromium, arsenic, selenium, antimony, and cobalt.",This requirement is for tinted glazing products only.,for,[],[],Relation
+"The product shall not contain chlorinated or brominated paraffins, and filler gases with 100-year global warming potential (GWP100) greater than 5 shall not be used in the insulating units.",This requirement is for double or triple glazing products only.,for,[],[],Relation
+"Laboratory test reports, MSDS, self-declaration letter, and production documentation are required.",Compliance with the criteria mentioned above.,to demonstrate,[],[],Relation
+The points for meeting each criterion stated in Section 4 are summarised in Table 2.,Points are awarded under the assessment criteria of the Standard.,before,[],[],Relation
+Initiatives or requirements for suppliers or contract manufacturers.,suppliers,is participated by,[],[],Relation
+Initiatives or requirements for suppliers or contract manufacturers.,contract manufacturers,is participated by,[],[],Relation
+"Energy management policies, procedures and programmes are written or signed by Chief Executive Officer or other authorised representative of the Applicant.",Chief Executive Officer,is participated by,[],[],Relation
+"Energy management policies, procedures and programmes are written or signed by Chief Executive Officer or other authorised representative of the Applicant.",authorised representative,is participated by,[],[],Relation
+"Energy management policies, procedures and programmes are written or signed by Chief Executive Officer or other authorised representative of the Applicant.",Applicant,is participated by,[],[],Relation
+"The glazing product shall not contain any carcinogenic substances or chemicals classified by the International Agency for Research on Cancer in Group 1, 2A or 2B.",glazing product,is participated by,[],[],Relation
+"The glazing product shall not contain any carcinogenic substances or chemicals classified by the International Agency for Research on Cancer in Group 1, 2A or 2B.",International Agency for Research on Cancer,is participated by,[],[],Relation
+Any carcinogens known to be present as contaminants shall be less than 0.1% by weight of the product.,carcinogens,is participated by,[],[],Relation
+Any carcinogens known to be present as contaminants shall be less than 0.1% by weight of the product.,product,is participated by,[],[],Relation
+"The product shall not contain organotin compounds, phthalates or polybrominated diphenyl ethers and classified as harmful, toxic, or very toxic according to EU Directives 2001/59/EC.",product,is participated by,[],[],Relation
+"The product shall not contain organotin compounds, phthalates or polybrominated diphenyl ethers and classified as harmful, toxic, or very toxic according to EU Directives 2001/59/EC.",EU Directives 2001/59/EC,is participated by,[],[],Relation
+The tinted glazing product shall not contain toxic heavy metals or ingredients containing heavy metals.,tinted glazing product,is participated by,[],[],Relation
+"The double/triple glazing product shall not contain chlorinated/brominated paraffins, and filler gases with 100-year global warming potential greater than 5 shall not be used in the insulating units.",double/triple glazing product,is participated by,[],[],Relation
+"The double/triple glazing product shall not contain chlorinated/brominated paraffins, and filler gases with 100-year global warming potential greater than 5 shall not be used in the insulating units.",insulating units,is participated by,[],[],Relation
+"Verification through laboratory test report(s), MSDS, self-declaration letter and production documentation to demonstrate compliance with the criteria mentioned.",laboratory test report(s),is participated by,[],[],Relation
+"Verification through laboratory test report(s), MSDS, self-declaration letter and production documentation to demonstrate compliance with the criteria mentioned.",MSDS,is participated by,[],[],Relation
+"Verification through laboratory test report(s), MSDS, self-declaration letter and production documentation to demonstrate compliance with the criteria mentioned.",self-declaration letter,is participated by,[],[],Relation
+"Verification through laboratory test report(s), MSDS, self-declaration letter and production documentation to demonstrate compliance with the criteria mentioned.",production documentation,is participated by,[],[],Relation
+Green Label,50 points,awarded,[],[],Relation
+Points,Platinum,required for,[],[],Relation
+Points,Gold,required for,[],[],Relation
+Points,Silver,required for,[],[],Relation
+Points,Bronze,required for,[],[],Relation
+Points,Green,required for,[],[],Relation
+Points,No Label,required for,[],[],Relation
+The requirement to be awarded a 'Green' Label under this product category is to obtain 50 points by meeting all minimum requirements laid down in the 'Core Criteria'.,A product can be awarded a 'Green' Label.,before,[],[],Relation
+A product obtains 90 or above points.,The product is awarded a 'Platinum' grade.,as a result,[],[],Relation
+A product obtains 80 to 89 points.,The product is awarded a 'Gold' grade.,as a result,[],[],Relation
+A product obtains 70 to 79 points.,The product is awarded a 'Silver' grade.,as a result,[],[],Relation
+A product obtains 60 to 69 points.,The product is awarded a 'Bronze' grade.,as a result,[],[],Relation
+A product obtains 50 to 59 points.,The product is awarded a 'Green' grade.,as a result,[],[],Relation
+A product obtains below 50 points.,The product is awarded 'No Label'.,as a result,[],[],Relation
+A requirement to be awarded a Green Label under this product category is to obtain 50 points by meeting all minimum requirements laid down in the Core Criteria.,Green Label,is participated by,[],[],Relation
+A requirement to be awarded a Green Label under this product category is to obtain 50 points by meeting all minimum requirements laid down in the Core Criteria.,product category,is participated by,[],[],Relation
+A requirement to be awarded a Green Label under this product category is to obtain 50 points by meeting all minimum requirements laid down in the Core Criteria.,Core Criteria,is participated by,[],[],Relation
+Table 3 provides benchmarks for grading glazing.,Table 3,is participated by,[],[],Relation
+Table 3 provides benchmarks for grading glazing.,benchmarks,is participated by,[],[],Relation
+Table 3 provides benchmarks for grading glazing.,glazing,is participated by,[],[],Relation
+A Platinum grade is awarded for 90 points or above.,Platinum grade,is participated by,[],[],Relation
+A Gold grade is awarded for 80 to 89 points.,Gold grade,is participated by,[],[],Relation
+A Silver grade is awarded for 70 to 79 points.,Silver grade,is participated by,[],[],Relation
+A Bronze grade is awarded for 60 to 69 points.,Bronze grade,is participated by,[],[],Relation
+A Green grade is awarded for 50 to 59 points.,Green grade,is participated by,[],[],Relation
+No Label is given for below 50 points.,No Label,is participated by,[],[],Relation
 Construction Industry Council,CIC Green Product Certification,owns,[],[],Relation
 Construction Industry Council,GLAZING,publishes,[],[],Relation
 GLAZING,Product Information,requires,[],[],Relation

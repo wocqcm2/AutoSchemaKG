@@ -351,7 +351,10 @@ class LLMGenerator():
         return self.generate_response(messages, max_new_tokens=max_new_tokens)
 
     
-    def triple_extraction(self, messages, max_tokens=4096, stage=None, record=False, allow_empty=False):
+    def triple_extraction(self, messages, max_tokens=4096, stage=None, record=False, allow_empty=True):
+        """
+        Extracts triples from text using the LLM, with specific handling for different extraction stages.
+        """
         if isinstance(messages[0], dict):
             messages = [messages]
         validate_kwargs = {

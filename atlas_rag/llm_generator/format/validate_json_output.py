@@ -13,8 +13,13 @@ def validate_output(output_str, **kwargs):
     allow_empty = kwargs.get("allow_empty", True)
     if fix_function:
         parsed_data = fix_function(output_str, **kwargs)  
+        # If the fix function returns an empty list, it's a valid (but empty) result.
+        # We can return it directly to avoid schema validation errors on an empty list.
+        if isinstance(parsed_data, list) and not parsed_data:
+            return json.dumps([], ensure_ascii=False)
+            
     jsonschema.validate(instance=parsed_data, schema=schema)
-    if not allow_empty and (not parsed_data or len(parsed_data) == 0):
+    if not allow_empty and (not parsed_data or (isinstance(parsed_data, list) and len(parsed_data) == 0)):
         raise ValueError("Parsed data is empty after validation.")
     return json.dumps(parsed_data, ensure_ascii=False)
 
